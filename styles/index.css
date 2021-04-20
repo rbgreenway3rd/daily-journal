@@ -1,3 +1,5 @@
+@import "styles/form.css";
+
 body {
     background-color: bisque;
 }
@@ -6,33 +8,4 @@ header {
     border: 3px ridge black;
     border-radius: 12px;
     text-align: center;
-}
-
-.form {
-    display: flex;
-    flex-direction: column;
-}
-
-.date-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.concepts-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.journalEntry-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.mood-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.recordEntry-button {
-
 }

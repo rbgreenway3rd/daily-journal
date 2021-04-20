@@ -1,0 +1,32 @@
+.form {
+    border: 3px ridge black;
+    margin-right: 25em;
+    margin-bottom: 0.5em;
+    padding: 0.25em;
+    display: flex;
+    flex-direction: column;
+}
+
+.date-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.concepts-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.journalEntry-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.mood-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.recordEntry-button {
+    margin-bottom: 1em;
+}
