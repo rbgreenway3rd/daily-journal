@@ -1,0 +1,12 @@
+{
+    "entries": [
+        {
+            "id": 1,
+            "concept": "Beginning Daily Journal",
+            "date" : "04/19/21",
+            "entry": "Practicing html and css, learning and struggling with json.",
+            "mood": "Confused"
+        }
+        
+    ]
+}
